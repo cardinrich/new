@@ -1,3 +1,0 @@
-{
-  "content": "datas are updated"
-}
